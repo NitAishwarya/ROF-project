@@ -14,7 +14,7 @@ const Routest = () => {
       <BrowserRouter>
         <Routes>
   
-          <Route path="/ROF_website" element={<LoginPage />} />
+          <Route path="/" element={<LoginPage />} />
           <Route path="/home" element={<Home />} />
           <Route path="/ForgotPassword" element={<ForgotPassword/>} />
           <Route path="/ProjectIntrest" element={<ProjectInterest/>} />

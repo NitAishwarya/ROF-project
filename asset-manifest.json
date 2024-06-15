@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ROF-project/static/css/main.3e17a830.css",
-    "main.js": "/ROF-project/static/js/main.74babbd7.js",
-    "static/js/453.8ff51a52.chunk.js": "/ROF-project/static/js/453.8ff51a52.chunk.js",
-    "static/media/Rectangle 3.png": "/ROF-project/static/media/Rectangle 3.a644d34171a008d448b3.png",
-    "static/media/americanabt_bold.ttf": "/ROF-project/static/media/americanabt_bold.029b30965e9d881fecd1.ttf",
-    "static/media/Vector 28.png": "/ROF-project/static/media/Vector 28.5e74cafc75063bb2b8af.png",
-    "index.html": "/ROF-project/index.html",
-    "main.3e17a830.css.map": "/ROF-project/static/css/main.3e17a830.css.map",
-    "main.74babbd7.js.map": "/ROF-project/static/js/main.74babbd7.js.map",
-    "453.8ff51a52.chunk.js.map": "/ROF-project/static/js/453.8ff51a52.chunk.js.map"
+    "main.css": "/ROF-project/ROF_website/static/css/main.f4202d75.css",
+    "main.js": "/ROF-project/ROF_website/static/js/main.ebdffb15.js",
+    "static/js/453.8ff51a52.chunk.js": "/ROF-project/ROF_website/static/js/453.8ff51a52.chunk.js",
+    "static/media/Rectangle 3.png": "/ROF-project/ROF_website/static/media/Rectangle 3.a644d34171a008d448b3.png",
+    "static/media/americanabt_bold.ttf": "/ROF-project/ROF_website/static/media/americanabt_bold.029b30965e9d881fecd1.ttf",
+    "static/media/Vector 28.png": "/ROF-project/ROF_website/static/media/Vector 28.5e74cafc75063bb2b8af.png",
+    "index.html": "/ROF-project/ROF_website/index.html",
+    "main.f4202d75.css.map": "/ROF-project/ROF_website/static/css/main.f4202d75.css.map",
+    "main.ebdffb15.js.map": "/ROF-project/ROF_website/static/js/main.ebdffb15.js.map",
+    "453.8ff51a52.chunk.js.map": "/ROF-project/ROF_website/static/js/453.8ff51a52.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e17a830.css",
-    "static/js/main.74babbd7.js"
+    "static/css/main.f4202d75.css",
+    "static/js/main.ebdffb15.js"
   ]
 }
